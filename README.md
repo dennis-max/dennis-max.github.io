@@ -4,7 +4,7 @@
 我是江旻恒
 
 ```C
-#include<stdio.h>
+#include <stdio.h>
 int main(void)
 {
     printf("Hello World");
